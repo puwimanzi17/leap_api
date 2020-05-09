@@ -45,6 +45,7 @@ class Contact(models.Model):
 
 class Subscribe(models.Model):
     email = models.EmailField(max_length=70)
+    timestamp = models.DateTimeField(auto_now_add=True)
 
     class Meta:
         ordering = ('timestamp',)
