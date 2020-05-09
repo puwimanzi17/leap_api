@@ -14,3 +14,4 @@ urlpatterns = [
     path('post/', views.send_contact, name="post"),
     path('sub/', views.subscribe, name="subscribe"),
 ]
+# https://leapprojectapp.herokuapp.com/
