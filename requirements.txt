@@ -24,7 +24,7 @@ daphne==2.3.0
 defusedxml==0.6.0
 diff-match-patch==20181111
 dj-database-url==0.5.0
-Django==2.0.13
+Django==2.2.13
 django-allauth==0.39.1
 django-anymail==6.1.0
 django-contrib-comments==1.9.1
