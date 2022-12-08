@@ -12,7 +12,7 @@ automium-web==0.1.1
 awesome-slugify==1.6.5
 boto3==1.9.202
 botocore==1.12.202
-certifi==2019.6.16
+certifi==2022.12.7
 cffi==1.12.3
 channels==2.2.0
 channels-redis==2.4.0
